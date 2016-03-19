@@ -1,0 +1,4 @@
+In the DOS environment(Under the DOS system),"cd" & "cd /d" is different.
+
+For example,if current directory is C:\Users\Jerry,input cd d:\G,directory won't change.
+But if you input cd /d d:\G,directory will change to d:\G.
