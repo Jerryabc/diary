@@ -1,2 +1,2 @@
-# diary
-A place store diary
+# note
+A place stores notes
