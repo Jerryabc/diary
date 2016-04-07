@@ -1,0 +1,3 @@
+String中 == 和 equals() 的区别：
+(1) == 比较的是String对象的引用地址。
+(2) equals() 比较的是String对象的值。
